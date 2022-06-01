@@ -1,2 +1,2 @@
 gunicorn
-tkinter
+tk-tools
